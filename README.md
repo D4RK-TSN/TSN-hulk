@@ -17,4 +17,10 @@ $ python2 tsn-hulk.py <target url>
 
 # Note:
 
-Please 
+Please Don't use for revenge! Make sure your anonymity! It's made for just educational purpose. We are not responsible for any abuse or damage caused by this program. Thanks.
+
+
+
+
+# Modified by D4RK TSN
+# Mysterious Team Bangladesh.
